@@ -41,13 +41,13 @@ Notice here **rahul-office** and **rahul-work** are the username of my github ac
 
 After entering the command the terminal will ask for passphrase, leave it empty and proceed.
 
-![Passphrase Image](https://github.com/rahularity/github-essentials/blob/master/passphrase.png)
+![Passphrase Image](https://github.com/rahularity/github-essentials/blob/master/screenshots/passphrase.png)
 
 > Now after adding keys , in your .ssh folder, a public key and a private will get generated.
 
 >The public key will have an extention __.pub__ and private key will be there without any extention both having same name which you have passed after __-f__ option in the above command. (in my case __github-rahul-office__ and __github-rahu-personal__)
 
-![Added Key Image](https://github.com/rahularity/github-essentials/blob/master/ssh_keys_added.png)
+![Added Key Image](https://github.com/rahularity/github-essentials/blob/master/screenshots/ssh_keys_added.png)
 
 <br>
 
