@@ -10,7 +10,7 @@ The setup can be done in 5 easy steps:
 - [Step 2](#step-2) : Add SSH keys to SSH Agent
 - [Step 3](#step-3) : Add SSH public key to the Github
 - [Step 4](#step-4) : Create a Config File and Make Host Entries
-- [Step 5](#step-5) : Create SSH keys for all accounts
+- [Step 5](#step-5) : Cloning GitHub repositories using different accounts
 
 <br>
 
