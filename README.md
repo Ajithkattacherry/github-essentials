@@ -1,4 +1,4 @@
-# Adding Multiple Github Accounts on one PC
+# How To Work With Multiple Accounts On Github
 
 Let suppose I have two github accounts, **https:/<span></span>/github.com<span></span>/rahul-office** and **https:/<span></span>/github.com<span></span>/rahul-personal**. Now i want to setup my mac to easily talk to both the github accounts.
 
